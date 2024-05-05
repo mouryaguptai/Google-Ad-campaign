@@ -3,7 +3,7 @@
 ## Description
 This repository contains the documentation and resources used for the digital marketing campaign of Dream Preparatory Academy Inc., facilitated through the Google Ad Grants Nonprofit Marketing Immersion Program. The campaign aimed to increase local awareness and enrollment for the academy's various educational programs through targeted Google Ads campaigns.
 
-![Campaign Overview](DMA logo.jpg)
+![Campaign Overview](DMA_logo.jpg)
 
 ## Technologies Used
 - Google Ads
